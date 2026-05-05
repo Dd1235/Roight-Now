@@ -1,7 +1,6 @@
 # Roight Now
 
 Overthinking? Indecisive? [visit roight now](https://dd1235.github.io/Roight-Now/)
-Should I do it roight now?
 
 ## Run Locally
 
